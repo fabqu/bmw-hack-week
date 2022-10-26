@@ -1,4 +1,4 @@
-# Hackweek powered by BWM Group Werk Regensburg
+# Hackweek - RC Car Modding Deluxe
 
 ![hack week car](/img/hack-week-car.jpg)
 
